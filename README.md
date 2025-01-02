@@ -1,4 +1,4 @@
-# Wine Qulaity ML Projet with MLFlows
+# Wine Qulaity ML Projet with MLFlows & DVC
 
 ## Workflows
 - Understanding the Problem Statement
