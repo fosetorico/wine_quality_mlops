@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vallee/Desktop/Stack/__DSProjects__/wine_quality_mlops/mlruns/0/63017cfe02ad4180a6636b8ce190ee78/artifacts
+end_time: 1735828976041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63017cfe02ad4180a6636b8ce190ee78
+run_name: resilient-flea-515
+run_uuid: 63017cfe02ad4180a6636b8ce190ee78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735828971000
+status: 4
+tags: []
+user_id: Vallee
